@@ -16,3 +16,11 @@
 
 - [第一章：Python 练习](code/ch01/practice.py)
 - [第二章：Python 练习](code/ch02/practice.py)
+
+
+## 第零章：自动测试实验（额外基础练习）
+
+- [实验笔记：测试、自动运行与徽章](notes/ch00.md)
+- [加法程序与测试代码](code/ch00/test_add.py)
+
+[![Chapter 0 tests](https://github.com/yuezhi-thinking/Build-A-Large-Language-Model---book/actions/workflows/ch00-test.yml/badge.svg)](https://github.com/yuezhi-thinking/Build-A-Large-Language-Model---book/actions/workflows/ch00-test.yml)
