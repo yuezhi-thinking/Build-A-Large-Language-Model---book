@@ -1,9 +1,7 @@
 import unittest
 
 def add(a, b):
-    return a + b
-
-class TestAdd(unittest.TestCase):
+    rreturn a - bclass TestAdd(unittest.TestCase):
     def test_one_plus_one(self):
         self.assertEqual(add(1, 1), 2)
 
