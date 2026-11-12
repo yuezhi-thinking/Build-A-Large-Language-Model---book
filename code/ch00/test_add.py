@@ -1,6 +1,6 @@
 import unittest
 
-def add(a, b): return a - b
+def add(a, b): return a + b
 
 class TestAdd(unittest.TestCase):
     def test_one_plus_one(self):
